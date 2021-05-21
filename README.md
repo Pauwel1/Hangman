@@ -1,7 +1,5 @@
 # Hangman
 
-Hangman
-
 Introduction
 
 As a first task for the BeCode training in group Bouman 3.31, I created this Hangman game. 
